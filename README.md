@@ -44,7 +44,7 @@ text
 ⚙️ Setup & Installation
 Prerequisites
 
-    Node.js v16+
+    Node.js v18
 
     Python 3.8+
 
